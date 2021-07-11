@@ -1,4 +1,3 @@
-//#include "stdafx.h"
 #include "Vending.h"
 #include <iostream>
 #include <time.h>
