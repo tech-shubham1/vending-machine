@@ -1,7 +1,6 @@
 #ifndef __Drink
 #define __Drink
 
-//#pragma once
 #include <string>
 using namespace std;
 class Drink
