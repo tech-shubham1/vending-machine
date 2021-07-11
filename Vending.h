@@ -13,7 +13,6 @@ public:
 	void debt(double);
 	void change();
 	void printBal();
-	bool rollLot();
 	void printMenu();
 	int getInput(int);
 	void refund();
